@@ -1,0 +1,85 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+.section-height{
+    height: 100vh;
+    padding-top: 2%;
+}
+
+#header{
+    
+    background-color: #222831;
+}
+
+.header{
+    display: inline-block;
+    text-align: center;
+    color: #EEEEEE;
+    margin-top: 13%;
+    margin-left: 23%;
+}
+
+.header h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-size: 64px;
+    word-spacing: 6px;  
+}
+
+
+#skills{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.skills h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.header-img, .skill-img
+{
+    height:200px;
+    width:200px;
+}
+
+.row{
+    margin-top: 2%;
+}
+
+#projects{
+    background-color: #393E46;
+}
+
+#projects h2{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    color: #EEEEEE;
+}
+
+#footer{
+    padding-top: 2%;
+   background-color: #00ADB5;
+   text-align: center;
+}
+
+#footer h4{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    color: #EEEEEE;
+}
+
+#footer ul{
+}
+#footer li{
+    display: inline-block;
+    margin: 5%;
+}
